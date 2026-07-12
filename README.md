@@ -206,7 +206,7 @@ nat-pat-internet-lab/
 
 ## 👤 Author
 
-**Kirkland Metellus** — IT Support Technician | Aspiring SOC Analyst
+**Kirkland Metellus** — IT Support Technician | SOC Analyst
 🔗 GitHub: [github.com/kmetellus1](https://github.com/kmetellus1)  ·  💼 LinkedIn: [linkedin.com/in/kmetellus](https://linkedin.com/in/kmetellus)
 
 <div align="center">
